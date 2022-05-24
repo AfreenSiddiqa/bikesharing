@@ -1,8 +1,10 @@
 # bikesharing
+
 Overview of the analysis:
+
 The purpose of this analysis was to utilize NYC Citibike data from the month of August to provide perspective on whether or not opening a similar type of bike share business would work in Des Moines, Iowa. We were asked to use Tableau as the means to display our analyses.
 
-Deliverable 1: Change Trip Duration to a Datetime Format
+           Deliverable 1: Change Trip Duration to a Datetime Format
 
 Using Python and Pandas functions, you’ll convert the "tripduration" column from an integer to a datetime datatype to get the time in hours, minutes, and seconds (00:00:00). After you convert the "tripduration" column to a datetime dataytpe, you’ll export the DataFrame as a CSV file to use for the trip analysis in Deliverable 2.
 
@@ -11,7 +13,7 @@ Using Python and Pandas functions, you’ll convert the "tripduration" column fr
 The data in the "tripduration" column is converted to a datetime datatype and has the correct time format.
 The DataFrame is exported as a new file without the index column.
 
-Deliverable 2: Create Visualizations for the Trip Analysis
+             Deliverable 2: Create Visualizations for the Trip Analysis
 
 Using Tableau, create visualizations that show:
 
@@ -48,7 +50,7 @@ In this visualization, you’ll graph the number of bike trips by gender for eac
 
 
 
-Deliverable 3: Create a Story and Report for the Final Presentation
+         Deliverable 3: Create a Story and Report for the Final Presentation
 
 Summary
 Overall, this analysis pushes the investors to also figure out strategies to increase bike usage amongst females and customers. Perhaps, these bikes are more readily-available for male subscribers versus other users? Locations of these bikes would be a good useful visualization tool to determine if locations are a factor in these numbers. Additionally, it would also be beneficial to view the inventory of bikes by hour. Perhaps, inventory becomes an issue during peak times?
